@@ -1,3 +1,8 @@
 hello
 world
+<<<<<<< HEAD
+
 i am from mumbai
+=======
+i am from london
+>>>>>>> e3f5bbfe0ac2ec2933cf7a8c79224574e40198a0
